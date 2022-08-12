@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-11T15:56:12 IST" name="Suite" finished-at="2022-08-11T15:57:35 IST" duration-ms="82919">
+    <groups>
+      <group name="smokeTest">
+        <method signature="CreateCampaignsTest.CreateCampaigns()[pri:0, instance:com.crm.sdet.campaigns.CreateCampaignsTest@1a6d8329]" name="CreateCampaigns" class="com.crm.sdet.campaigns.CreateCampaignsTest"/>
+        <method signature="DeleteProductTest.DeleteProduct()[pri:0, instance:com.crm.sdet.products.DeleteProductTest@2892d68]" name="DeleteProduct" class="com.crm.sdet.products.DeleteProductTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2022-08-11T15:56:12 IST" name="Test" finished-at="2022-08-11T15:57:35 IST" duration-ms="82919">
+      <class name="com.crm.sdet.campaigns.CreateCampaignsTest">
+        <test-method is-config="true" signature="BS()[pri:0, instance:com.crm.sdet.campaigns.CreateCampaignsTest@1a6d8329]" started-at="2022-08-11T15:56:12 IST" name="BS" finished-at="2022-08-11T15:56:12 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:com.crm.sdet.campaigns.CreateCampaignsTest@1a6d8329]" started-at="2022-08-11T15:56:12 IST" name="BT" finished-at="2022-08-11T15:56:12 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:com.crm.sdet.campaigns.CreateCampaignsTest@1a6d8329]" started-at="2022-08-11T15:56:12 IST" name="BC" finished-at="2022-08-11T15:56:18 IST" duration-ms="5602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:com.crm.sdet.campaigns.CreateCampaignsTest@1a6d8329]" started-at="2022-08-11T15:56:18 IST" name="BM" finished-at="2022-08-11T15:56:25 IST" duration-ms="7597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="CreateCampaigns()[pri:0, instance:com.crm.sdet.campaigns.CreateCampaignsTest@1a6d8329]" started-at="2022-08-11T15:56:25 IST" name="CreateCampaigns" finished-at="2022-08-11T15:56:50 IST" duration-ms="25008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCampaigns -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:com.crm.sdet.campaigns.CreateCampaignsTest@1a6d8329]" started-at="2022-08-11T15:56:50 IST" name="AM" finished-at="2022-08-11T15:56:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:com.crm.sdet.campaigns.CreateCampaignsTest@1a6d8329]" started-at="2022-08-11T15:56:50 IST" name="AC" finished-at="2022-08-11T15:56:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:com.crm.sdet.campaigns.CreateCampaignsTest@1a6d8329]" started-at="2022-08-11T15:57:35 IST" name="AT" finished-at="2022-08-11T15:57:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:com.crm.sdet.campaigns.CreateCampaignsTest@1a6d8329]" started-at="2022-08-11T15:57:35 IST" name="AS" finished-at="2022-08-11T15:57:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- com.crm.sdet.campaigns.CreateCampaignsTest -->
+      <class name="com.crm.sdet.products.DeleteProductTest">
+        <test-method is-config="true" signature="BC()[pri:0, instance:com.crm.sdet.products.DeleteProductTest@2892d68]" started-at="2022-08-11T15:56:50 IST" name="BC" finished-at="2022-08-11T15:56:52 IST" duration-ms="2241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:com.crm.sdet.products.DeleteProductTest@2892d68]" started-at="2022-08-11T15:56:52 IST" name="BM" finished-at="2022-08-11T15:57:02 IST" duration-ms="9880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="DeleteProduct()[pri:0, instance:com.crm.sdet.products.DeleteProductTest@2892d68]" started-at="2022-08-11T15:57:02 IST" name="DeleteProduct" finished-at="2022-08-11T15:57:35 IST" duration-ms="32512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteProduct -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:com.crm.sdet.products.DeleteProductTest@2892d68]" started-at="2022-08-11T15:57:35 IST" name="AM" finished-at="2022-08-11T15:57:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:com.crm.sdet.products.DeleteProductTest@2892d68]" started-at="2022-08-11T15:57:35 IST" name="AC" finished-at="2022-08-11T15:57:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+      </class> <!-- com.crm.sdet.products.DeleteProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
